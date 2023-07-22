@@ -1,0 +1,16 @@
+{
+  "tables": [
+    {
+      "title": "title exmaple 1 in file2",
+      "rows" : 5,
+      "columns": 2,
+      "notes": "table nodes 1"
+    },
+    {
+      "title": "title exmaple 2 in file2",
+      "rows" : 6,
+      "columns": 3,
+      "notes": "table nodes 2"
+    }
+  ]
+}
